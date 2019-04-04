@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/CaptchaBlogComment/Default.aspx) (VB: [Default.aspx](./VB/CaptchaBlogComment/Default.aspx))
-* [Default.aspx.cs](./CS/CaptchaBlogComment/Default.aspx.cs) (VB: [Default.aspx](./VB/CaptchaBlogComment/Default.aspx))
+* [Default.aspx.cs](./CS/CaptchaBlogComment/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/CaptchaBlogComment/Default.aspx.vb))
 <!-- default file list end -->
 # A sample blog comments web page with a Captcha control
 
