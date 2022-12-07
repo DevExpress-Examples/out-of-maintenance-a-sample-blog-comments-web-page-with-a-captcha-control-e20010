@@ -46,7 +46,7 @@ namespace CaptchaBlogComment {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxLabel lblName;
+        protected global::DevExpress.Web.ASPxLabel lblName;
         
         /// <summary>
         /// tbName control.
@@ -55,7 +55,7 @@ namespace CaptchaBlogComment {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxTextBox tbName;
+        protected global::DevExpress.Web.ASPxTextBox tbName;
         
         /// <summary>
         /// lblComment control.
@@ -64,7 +64,7 @@ namespace CaptchaBlogComment {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxLabel lblComment;
+        protected global::DevExpress.Web.ASPxLabel lblComment;
         
         /// <summary>
         /// taComment control.
@@ -82,7 +82,7 @@ namespace CaptchaBlogComment {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxLabel lblCaptcha;
+        protected global::DevExpress.Web.ASPxLabel lblCaptcha;
         
         /// <summary>
         /// Captcha control.
@@ -91,7 +91,7 @@ namespace CaptchaBlogComment {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxCaptcha Captcha;
+        protected global::DevExpress.Web.ASPxCaptcha Captcha;
         
         /// <summary>
         /// btnAddComment control.
@@ -100,7 +100,7 @@ namespace CaptchaBlogComment {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton btnAddComment;
+        protected global::DevExpress.Web.ASPxButton btnAddComment;
         
         /// <summary>
         /// GuestBookDataSource control.

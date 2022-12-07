@@ -49,7 +49,7 @@ Namespace CaptchaBlogComment
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected lblName As Global.DevExpress.Web.ASPxEditors.ASPxLabel
+		Protected lblName As Global.DevExpress.Web.ASPxLabel
 
 		''' <summary>
 		''' tbName control.
@@ -58,7 +58,7 @@ Namespace CaptchaBlogComment
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected tbName As Global.DevExpress.Web.ASPxEditors.ASPxTextBox
+		Protected tbName As Global.DevExpress.Web.ASPxTextBox
 
 		''' <summary>
 		''' lblComment control.
@@ -67,7 +67,7 @@ Namespace CaptchaBlogComment
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected lblComment As Global.DevExpress.Web.ASPxEditors.ASPxLabel
+		Protected lblComment As Global.DevExpress.Web.ASPxLabel
 
 		''' <summary>
 		''' taComment control.
@@ -85,7 +85,7 @@ Namespace CaptchaBlogComment
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected lblCaptcha As Global.DevExpress.Web.ASPxEditors.ASPxLabel
+		Protected lblCaptcha As Global.DevExpress.Web.ASPxLabel
 
 		''' <summary>
 		''' Captcha control.
@@ -94,7 +94,7 @@ Namespace CaptchaBlogComment
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected Captcha As Global.DevExpress.Web.ASPxEditors.ASPxCaptcha
+		Protected Captcha As Global.DevExpress.Web.ASPxCaptcha
 
 		''' <summary>
 		''' btnAddComment control.
@@ -103,7 +103,7 @@ Namespace CaptchaBlogComment
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected btnAddComment As Global.DevExpress.Web.ASPxEditors.ASPxButton
+		Protected btnAddComment As Global.DevExpress.Web.ASPxButton
 
 		''' <summary>
 		''' GuestBookDataSource control.
